@@ -1,0 +1,25 @@
+{
+  "name": "bitroot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test1": "mocha --recursive"
+  },
+  "author": "Sumedh Wakle",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "fast-csv": "^5.0.1",
+    "fs": "^0.0.1-security",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.3"
+  },
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0",
+    "supertest": "^7.0.0"
+  }
+}

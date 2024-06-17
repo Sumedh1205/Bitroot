@@ -1,0 +1,11 @@
+Step 1: Unzip the test file.
+
+Step 2: Open app.js  .
+
+Step 3: Install all other Node modules if they are not installed.
+
+Step 4: Connect the database with app.js.
+
+Step 5: Check the API and run it in Postman to verify whether the file is functioning correctly or not.
+
+If any doubt contact 7719810068

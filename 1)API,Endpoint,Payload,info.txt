@@ -1,0 +1,35 @@
+1)API: http://localhost:3000/insertcontact
+
+Payload: POST
+{
+    "name":"Sumedh",
+    "mobno":"7719810068",
+    "image":"noimage"
+}
+method type: post
+
+
+2)API: http://localhost:3000/updatecontact
+Payload:POST
+{
+    "srno":"2",
+    "name":"test",
+    "age":"12",
+    "mobno":"7776854960"
+}
+
+3) API: http://localhost:3000/deletecontact
+Payload:POST
+{
+    "id":"1"
+}
+
+4) API: http://localhost:3000/getcontacts
+Payload:GET
+
+5) API:http://localhost:3000/exportcontacts
+Payload: GET 
+
+
+
+
